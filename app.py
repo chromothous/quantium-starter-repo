@@ -31,6 +31,7 @@ fig = px.line(
 app.layout = html.Div([
     html.H1(
         "Soul Foods Pink Morsel Sales Dashboard",
+        id="dashboard-header",
         style={
             "textAlign": "center",
             "color": "silver",
