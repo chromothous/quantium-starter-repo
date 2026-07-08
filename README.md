@@ -14,4 +14,4 @@ To run the test suite:
 
 python -m pytest -v
 
-If you receive a ChromeDriver version error, ensure that your installed Chrome browser version matches your ChromeDriver version.
+If you receive a ChromeDriver version error, ensure that your installed Chrome browser version matches your ChromeDriver version and can be reached by it's path.
